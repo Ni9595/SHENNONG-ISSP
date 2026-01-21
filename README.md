@@ -1,5 +1,30 @@
 # SHENNONG-ISSP
 
+SHENNONG-ISSP is a Windows desktop application for **tea sample identification**.
+
+> This repository currently provides the Windows installer (.exe) only. The source code is not publicly available at this time.
+
+## Download
+Go to **Releases** in this repository and download the latest installer: `Shennong-ISSP-Setup.exe`.
+
+## Install & Run
+1. Download `Shennong-ISSP-Setup.exe`
+2. Double-click to install and follow the on-screen instructions
+3. Launch the app from the Start Menu or the desktop shortcut
+
+## System Requirements
+- Windows 10/11 (64-bit)
+
+## FAQ
+- If Windows shows “Windows protected your PC” / “Unknown publisher”: click **More info** → **Run anyway**.
+
+## Feedback
+Please open an **Issue** for bug reports or feature requests. Include:
+- Your Windows version
+- App version (e.g., v1.0.0)
+- Steps to reproduce (and screenshots if possible)
+# SHENNONG-ISSP
+
 SHENNONG-ISSP 是一款用于**茶叶样品鉴别**的 Windows 桌面端软件。
 
 > 当前仅发布 Windows 安装包（.exe），源码暂不公开。
